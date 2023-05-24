@@ -1,0 +1,7 @@
+ALGORITMO - IR AO TRABALHO
+
+1 - Ir até o quarto do escritório;
+2 - Abrir o notebook da Zup;
+3 - Fazer o login no Gmail;
+4 - Validar o código do Google Authenticator;
+5 - Entrar no link do Meet do Catalisa.
